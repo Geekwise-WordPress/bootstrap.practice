@@ -15,8 +15,8 @@
 <body>
     <!-- Image and text -->
 <nav class="navbar navbar-light bg-light">
-  <a class="navbar-brand" href="#">
-    <img src="" width="30" height="30" class="d-inline-block align-top" alt="">
+  <a class="navbar-brand nav-font" href="http://www.instagram.com/peskyrealm">
+    <img src="http://bootstrap.practice/wp-content/uploads/2019/12/PR-Logo.png" width="40" height="40" class="d-inline-block align-top" alt="PeskyRealm logo">
     PeskyRealm
   </a>
 </nav>

@@ -1,7 +1,38 @@
+.nav-font {
+    font-family: "sans-serif";
+    font-style: oblique;
+}
+
 .h1 {
-    color: rgba(57, 201, 201, 0.37);
+    color: gray;
+    font-family: helvetica;
 }
 
 .p {
-    color: burlywood;
+    color: darkorange;
+    font-family: arial;
+    font-style: italic;
+}
+
+.jumbotron-fluid {
+    background-color: rgba(148, 177, 175, 0.877);
+}
+
+.btn {
+    background-color: gray;
+    border-color: none;
+    border-radius: none;
+    font-family: impact;
+}
+
+.card-flex {
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-around;
+}
+
+.img-center {
+    display: block;
+    margin: 5vh auto;
 }
