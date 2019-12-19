@@ -9,7 +9,14 @@
 ​
     <meta name="viewport" content="width=device-width">
     <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
-​
+    
     <?php wp_head(); ?>
-    <h5>I am the header</h5>
 </head>
+<body>
+    <!-- Image and text -->
+<nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="#">
+    <img src="" width="30" height="30" class="d-inline-block align-top" alt="">
+    PeskyRealm
+  </a>
+</nav>
