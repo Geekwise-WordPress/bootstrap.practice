@@ -16,6 +16,8 @@
 
 .jumbotron-fluid {
     background-color: rgba(148, 177, 175, 0.877);
+    display: flex;
+    flex-direction: wrap;
 }
 
 .btn {
@@ -26,10 +28,10 @@
 }
 
 .card-flex {
-    justify-content: center;
+    justify-content: flex-end;
     flex-direction: row;
-    flex-wrap: nowrap;
-    align-content: space-around;
+    flex-wrap: wrap;
+    align-items: space-around;
 }
 
 .img-center {

@@ -12,19 +12,10 @@
     </section>
     <section>  
         <div class="d-flex justify-content-center">
-            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-                <div class="carousel-inner">
-                  <div class="carousel-item active">
-                    <img src="http://bootstrap.practice/wp-content/uploads/2019/12/Capture.jpg" class="d-block w-100" alt="digital illustration of mdf board">
-                </div>
-                <div class="carousel-item">
-                    <img src="http://bootstrap.practice/wp-content/uploads/2019/12/IMG_5168.jpg" class="d-block w-100" alt="raider board">
-                </div>
-                <div class="carousel-item">
-                    <img src="http://bootstrap.practice/wp-content/uploads/2019/12/IMG_4267-scaled.jpg" class="d-block w-100" alt="dali elephant board">
-                </div>
-            </div>
+            <img src="http://bootstrap.practice/wp-content/uploads/2019/12/Capture.jpg" class="" alt="digital illustration of mdf board">
         </div>
+    </section>
+    <section>
         <div class="d-flex card-flex">
             <div class="card" style="width: 18rem;">
                 <img src="http://bootstrap.practice/wp-content/uploads/2019/12/Rabbit-Bottle-Longboard-scaled.jpg" class="card-img-top" alt="trespa board with rabbit">
